@@ -1,0 +1,69 @@
+Role: Python Developer
+
+Skills Required:
+- Python
+- Django or Flask
+- SQL / MySQL
+- REST APIs
+- Git
+- Problem Solving
+- Communication
+
+Responsibilities:
+- Develop backend services using Python
+- Create REST APIs
+- Work with databases
+- Debug and optimize code
+- Collaborate with team
+
+
+Role: Data Analyst
+
+Required Skills:
+- Python
+- SQL
+- Excel
+- Data Visualization
+- Communication
+- Problem Solving
+
+Responsibilities:
+- Analyze business data
+- Create dashboards
+- Write SQL queries
+- Generate reports
+- Work with stakeholders
+
+
+Role: Frontend Developer
+
+Skills:
+- HTML
+- CSS
+- JavaScript
+- React
+- Git
+- Teamwork
+
+Responsibilities:
+- Build UI components
+- Integrate APIs
+- Responsive design
+- Debug frontend issues
+
+
+Role: Graduate Engineer Trainee
+
+Skills:
+- Python or Java
+- SQL
+- Communication
+- Teamwork
+- Problem Solving
+- Basic OOPS
+
+Responsibilities:
+- Software development
+- Testing
+- Documentation
+- Learning new tech
